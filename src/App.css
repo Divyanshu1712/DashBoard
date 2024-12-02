@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 1654px;
+  width: 1600px;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+
+.content {
+  display: flex;
+  flex: 1;
+  background-color: #f9fafc;
+}
